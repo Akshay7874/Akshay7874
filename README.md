@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at (https://guileless-pothos-b16d00.netlify.app/)
+- 👨‍💻 All of my projects are available at https://resumeakshaysadholirednakur.netlify.app/
 
 - 📫 How to reach me **akshaykar7874@gmail.com**
 
-- 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6716770f6f511f3183e21896](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6716770f6f511f3183e21896)
+- 📄 Know about my experiences https://resume-builder-test-new.masaischool.com/resume/public?resumeId=671b98197ca4c4119e6ef56b
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
