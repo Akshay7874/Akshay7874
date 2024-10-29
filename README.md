@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at https://resumeakshaysadholirednakur.netlify.app/
+- 👨‍💻 All of my projects are available at https://portfolioakshaykumarnakursadholi.netlify.app/
 
 - 📫 How to reach me **akshaykar7874@gmail.com**
 
