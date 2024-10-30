@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at https://portfolioakshaykumarnakursadholi.netlify.app/
+- 👨‍💻 All of my projects are available at http://127.0.0.1:5501/Portfolio-Website/AkshayKumar-FullStackWebDeveloper-thFp.pdf
 
 - 📫 How to reach me **akshaykar7874@gmail.com**
 
-- 📄 Know about my experiences https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6720c2087ca4c4119e72620d
+- 📄 Know about my experiences https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6721e14a6f511f3183ed2776
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
