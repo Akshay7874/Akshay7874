@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at http://127.0.0.1:5501/Portfolio-Website/AkshayKumar-FullStackWebDeveloper-thFp.pdf
+- 👨‍💻 All of my projects are available at https://portfolioakshaykumarsaharanpur.netlify.app/
 
 - 📫 How to reach me **akshaykar7874@gmail.com**
 
